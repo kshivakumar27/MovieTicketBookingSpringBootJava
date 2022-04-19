@@ -10,4 +10,5 @@
 <h1>The available seats are : ${seats}</h1>
 <h1>Ordered Seats are : ${o_seats}</h1>
 </body>
+    
 </html>
